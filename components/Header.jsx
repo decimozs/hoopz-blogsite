@@ -25,7 +25,7 @@ const Header = () => {
     </div>
 
     <div className='navbar-indicator animate-bounce'>
-    <Image src={indicator} className=""></Image>
+    <Image src={indicator} className="" alt="img"></Image>
     </div>
 
     </div>

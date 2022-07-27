@@ -16,7 +16,7 @@ const Whatsnext = () => {
     <div className='whatsnetx-content text-center p-4 flex flex-col items-center justify-center gap-12'>
     
     <div className='content-title'>
-    <h1 className='font-black text-5xl md:text-7xl'>what's next?</h1>
+    <h1 className='font-black text-5xl md:text-7xl'>what&#39;s next?</h1>
     </div>
 
     <div className='content-snippets
