@@ -1,0 +1,45 @@
+.elements-content{
+    h1{
+        font-weight: 900;
+        color: var(--black-clr);
+    }
+
+    h2{
+        font-weight: 800;
+        color: var(--white-clr);
+    }
+
+    p{
+        text-transform: capitalize;
+        color: var(--black-clr);
+        font-weight: 700;
+    }
+}
+
+.navbar-logo{
+    .webname{
+        color: var(--orange-clr);
+        font-weight: 900;
+    }
+}
+
+.links{
+    color: var(--black-clr);
+    font-weight: 600;
+}
+
+.header-title{
+    font-weight: 900;
+    
+    .white{
+        color: var(--white-clr);
+    }
+
+    .orange{
+        color: var(--orange-clr);
+    }
+}
+
+p{
+    font-weight: 700;
+}
